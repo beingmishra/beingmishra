@@ -124,6 +124,6 @@ I specialize in building robust apps that can satisfy your needs. I love designi
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=beingmishra&&style=flat-square)  
 
 <br />
