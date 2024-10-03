@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/whokilleddb/whokilleddb/main/img/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
 <br/>
@@ -34,7 +34,7 @@
 
 
 ### Glad to see you here!  
-I’m an Android developer since 2019. I moved from AOSP (custom rom) development to App development. From doing it as hobby to pursuing it as career. Android is not my skill but my passion. 
+I’m a Mobile app developer since 2019. I moved from AOSP (custom rom) development to App development. From doing it as hobby to pursuing it as career. App development is not my skill but my passion. 
 
 I specialize in building robust apps that can satisfy your needs. I love designing apps that are modern yet minimal, complex yet user friendly and feature full yet stable. I also keep upgrading my skills with latest languages. I have good knowledge of Java, Kotlin and Flutter which helps me in doing Native as well as Hybrid apps.  
   
